@@ -39,9 +39,6 @@ The dataset has the following attributes :
 * Health precautions: Are students taking precautions to mitigate potential health risks? (Taking Break during prolonged use / Using Blue light filter / Limiting Screen Time / None of Above)
 * Health rating: How would students rate their overall physical and mental health? (Excellent / Good / Fair / Poor)
 
-#### Project Objective:
-The project focuses on analyzing mobile phone usage and health metrics to predict its impact on academic performance based on factors such as mobile phone activities, daily usage patterns, performance impact during exams, usage distraction, attention span, useful features utilized for education, health risks, beneficial subjects for mobile learning, symptoms related to mobile phone use, frequency of symptoms, health precautions taken, and students' self-rated health status.
-
 ### Understanding the Data
 The dataset primarily includes students aged 21-25, with a mix of both genders, all of whom own mobile phones. It features students using both major mobile operating systems, Android and IOS. A significant number of students use their mobile phones for educational purposes with varying frequencies. Common activities on mobile phones include social media and multiple simultaneous activities. Many students report experiencing various health symptoms due to mobile phone usage, such as headaches and sleep disturbances, with some taking precautions like using blue light filters. Regarding academic impact, students have mixed perceptions, ranging from neutral to strongly agreeing on the negative impact of mobile phone usage. The daily usage time varies among students, with some using their phones for more than 6 hours daily.
 
