@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/innocentmfa/students-health-and-academic-perform
 
 The dataset has the following attributes :
 * Names: Student names
-* Age	: Student names
+* Age	: Student age (in years)
 * Gender : Male/Female	
 * Mobile phone : Do students own a mobile phone? (Yes/No)
 * Mobile Operating System : Type of mobile operating system used (e.g. Android, iOS, Other)	
