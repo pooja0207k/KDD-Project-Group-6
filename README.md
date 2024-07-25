@@ -1,4 +1,4 @@
-# Predicting Health Performance Through Analysis of Mobile Phone Usage and Health Metrics
+# Predictive Modeling of Health Risks Associated with Mobile Phone Usage
 
 ### Group Number: 6
 #### Team Members:
