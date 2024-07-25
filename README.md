@@ -1,4 +1,4 @@
-# Predicting Educational Performance Through Analysis of Mobile Phone Usage and Health Metrics
+# Predicting Health Performance Through Analysis of Mobile Phone Usage and Health Metrics
 
 ### Group Number: 6
 #### Team Members:
