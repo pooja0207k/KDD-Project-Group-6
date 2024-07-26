@@ -13,6 +13,11 @@ This project will explore the impact of mobile phone usage on students' health. 
 ### Research Question
 How does the duration and type of mobile phone usage affect the health of young adults?
 
+### Relevant Domain Information 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9368281/#:~:text=Excessive%20mobile%20device%20usage%2C%20such,in%20weight%20in%20our%20study.
+https://therapybrands.com/blog/what-is-the-impact-of-smartphone-addiction-on-mental-health/
+
+
 #### Data Source: 
 https://www.kaggle.com/datasets/innocentmfa/students-health-and-academic-performance
 
