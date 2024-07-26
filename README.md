@@ -49,3 +49,6 @@ The dataset primarily includes students aged 21-25, with a mix of both genders, 
 
 ### Data Preparation
 Currently, the dataset has undergone several data preparation steps to ensure its quality and suitability for analysis. Initially, the dataset contained some missing values in columns like 'Mobile phone use for education', 'Mobile phone activities', and 'Helpful for studying', which were addressed by dropping the affected rows. Categorical data, such as age ranges and daily usage time, were converted to numerical values by mapping age ranges to their midpoints and assigning numerical values to usage categories. Categorical variables like 'Gender', 'Mobile Operating System', 'Mobile phone activities', and 'Educational Apps' were transformed using one-hot encoding to facilitate analysis. Additionally, numerical columns like 'Age' and 'Daily usage' were normalized to have a mean of 0 and a standard deviation of 1, ensuring that the data was standardized and ready for further analysis.
+
+### Collab Link 
+https://colab.research.google.com/drive/1pAqfKaF0ZcYinfafGhFDIAqUP-5blAXI?usp=sharing 
