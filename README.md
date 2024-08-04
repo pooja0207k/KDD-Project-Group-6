@@ -1,4 +1,5 @@
 # Predictive Modeling of Health Risks Associated with Mobile Phone Usage
+You can run this project on Google Colab by clicking [here](https://colab.research.google.com/drive/1WjRTpRGLntaUvSmbOw4TWlUl1zBtYc2z?usp=sharing).
 
 ### Group Number: 6
 #### Team Members:
