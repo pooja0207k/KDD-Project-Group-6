@@ -61,9 +61,6 @@ The dataset primarily includes students aged 21-25, with a mix of both genders, 
 
 
 
-### Collab Link 
-https://colab.research.google.com/drive/1pAqfKaF0ZcYinfafGhFDIAqUP-5blAXI?usp=sharing 
-
 ## Modeling
 Two primary modeling approaches were utilized:
 **Traditional Models**:
